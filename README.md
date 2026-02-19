@@ -240,6 +240,4 @@ Designed and implemented a fully containerized asynchronous email notification m
 
 ---
 
-## 📄 License
 
-This project is for educational and demonstration purposes.
